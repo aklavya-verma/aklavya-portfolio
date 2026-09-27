@@ -2,7 +2,7 @@
 
 A single-page portfolio website built for software engineering, web development, and data analyst roles. Live, responsive, and self-contained — no build step, no dependencies, no backend.
 
-**Live site:** `https://<your-github-username>.github.io/<repo-name>/` (fill this in once GitHub Pages is enabled — see below)
+**Live site:** [`https://aklavya-verma.github.io/aklavya-portfolio/']
 
 ## About
 
